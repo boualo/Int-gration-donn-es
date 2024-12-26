@@ -1,0 +1,36 @@
+2024.12.26 23:46:44 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.26 23:46:44 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2024.12.26 23:46:44 INFO  Successfully validated 6 migrations (execution time 00:00.011s)
+2024.12.26 23:46:44 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2024.12.26 23:46:44 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2024.12.26 23:46:44 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2024.12.26 23:46:44 INFO  Successfully applied 6 migrations to schema "PUBLIC", now at version v6 (execution time 00:00.101s)
+2024.12.26 23:46:45 INFO  no build target found for C:\Users\Bouali\Documents\M2\Int-gration-donn-es\web of science\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.26 23:46:49 INFO  Running List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.26 23:46:49 INFO  Attempting to connect to the build server...
+2024.12.26 23:46:49 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.26 23:46:50 INFO  no build target found for C:\Users\Bouali\Documents\M2\Int-gration-donn-es\web of science\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.26 23:46:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.26 23:46:52 INFO  time: Connected to build server in 2.72s
+2024.12.26 23:46:52 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.26 23:46:53 INFO  time: Imported build in 0.35s
+2024.12.26 23:46:53 INFO  running doctor check
+2024.12.26 23:46:53 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.26 23:46:54 INFO  compiling int-gration-donn-es_d5c0a6989e (1 scala source)
+2024.12.26 23:46:56 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.26 23:46:56 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2024.12.26 23:46:56 INFO  Current version of schema "PUBLIC": 1
+2024.12.26 23:46:56 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.26 23:46:58 WARN  Could not find semantic tokens for: file:///C:/Users/Bouali/Documents/M2/Int-gration-donn-es/web%20of%20science/Untitled-1.scala
+2024.12.26 23:46:59 INFO  time: compiled Int-gration-donn-es_d5c0a6989e in 5.11s
+2024.12.26 23:47:00 INFO  Cancelling compilation on scala-cli server
+2024.12.26 23:47:00 INFO  time: Imported build in 0.2s
+2024.12.26 23:47:00 INFO  running doctor check
+2024.12.26 23:47:00 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.26 23:47:00 INFO  time: indexed workspace in 7.45s
+2024.12.26 23:47:03 INFO  time: indexed workspace in 3.22s
