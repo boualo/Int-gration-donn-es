@@ -34,3 +34,468 @@
 2024.12.26 23:47:00 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
 2024.12.26 23:47:00 INFO  time: indexed workspace in 7.45s
 2024.12.26 23:47:03 INFO  time: indexed workspace in 3.22s
+2024.12.27 02:32:51 INFO  Shutting down server
+2024.12.27 02:32:51 INFO  shutting down Metals
+2024.12.27 02:32:51 INFO  Shut down connection with build server.
+2024.12.27 02:32:51 INFO  Shut down connection with build server.
+2024.12.27 02:32:51 INFO  Shut down connection with build server.
+2024.12.27 02:32:51 INFO  Exiting server
+2024.12.27 13:39:07 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.27 13:39:10 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.27 13:39:10 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.27 13:39:10 INFO  Successfully validated 6 migrations (execution time 00:00.120s)
+2024.12.27 13:39:10 INFO  Successfully validated 6 migrations (execution time 00:00.122s)
+2024.12.27 13:39:10 INFO  Current version of schema "PUBLIC": 6
+2024.12.27 13:39:10 INFO  Current version of schema "PUBLIC": 6
+2024.12.27 13:39:10 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.27 13:39:10 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.27 13:39:11 INFO  Attempting to connect to the build server...
+2024.12.27 13:39:10 INFO  Attempting to connect to the build server...
+2024.12.27 13:39:11 INFO  No running Bloop server found, starting one.
+2024.12.27 13:39:10 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.27 13:39:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 13:39:18 INFO  BSP server: Starting compilation server
+2024.12.27 13:39:18 INFO  Starting compilation server
+2024.12.27 13:39:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 13:39:32 INFO  Attempting to connect to the build server...
+2024.12.27 13:39:32 INFO  Found a Bloop server running
+2024.12.27 13:39:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.27 13:39:33 INFO  time: Connected to build server in 21s
+2024.12.27 13:39:33 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.27 13:39:33 INFO  time: Connected to build server in 22s
+2024.12.27 13:39:33 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.27 13:39:33 INFO  time: Imported build in 0.24s
+2024.12.27 13:39:33 INFO  running doctor check
+2024.12.27 13:39:33 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.27 13:39:34 INFO  time: Imported build in 0.67s
+2024.12.27 13:39:34 INFO  running doctor check
+2024.12.27 13:39:34 INFO  java targets: hello-world-build, root, root-test
+2024.12.27 13:39:39 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.27 13:39:39 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.27 13:39:39 INFO  Current version of schema "PUBLIC": 1
+2024.12.27 13:39:39 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.27 13:39:40 INFO  time: indexed workspace in 7.34s
+2024.12.27 13:39:56 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.27 13:39:56 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.27 13:39:56 INFO  Current version of schema "PUBLIC": 1
+2024.12.27 13:39:56 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.27 13:40:29 INFO  time: indexed workspace in 54s
+Dec 27, 2024 9:34:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:35:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 27, 2024 9:36:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.12.28 01:45:01 INFO  Shutting down server
+2024.12.28 01:45:01 INFO  shutting down Metals
+2024.12.28 01:45:01 INFO  Shut down connection with build server.
+2024.12.28 01:45:01 INFO  Shut down connection with build server.
+2024.12.28 01:45:01 INFO  Shut down connection with build server.
+2024.12.28 01:45:01 INFO  Exiting server
+2024.12.28 11:36:43 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.28 11:36:45 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.28 11:36:45 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.28 11:36:45 INFO  Successfully validated 6 migrations (execution time 00:00.085s)
+2024.12.28 11:36:45 INFO  Successfully validated 6 migrations (execution time 00:00.085s)
+2024.12.28 11:36:45 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 11:36:45 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 11:36:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 11:36:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 11:36:46 INFO  Attempting to connect to the build server...
+2024.12.28 11:36:46 INFO  No running Bloop server found, starting one.
+2024.12.28 11:36:46 INFO  Attempting to connect to the build server...
+2024.12.28 11:36:46 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.28 11:36:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 11:36:53 INFO  BSP server: Starting compilation server
+2024.12.28 11:36:53 INFO  Starting compilation server
+2024.12.28 11:37:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 11:37:05 INFO  Attempting to connect to the build server...
+2024.12.28 11:37:05 INFO  Found a Bloop server running
+2024.12.28 11:37:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 11:37:06 INFO  time: Connected to build server in 20s
+2024.12.28 11:37:06 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.28 11:37:07 INFO  time: Connected to build server in 20s
+2024.12.28 11:37:07 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.28 11:37:06 INFO  time: Imported build in 0.23s
+2024.12.28 11:37:06 INFO  running doctor check
+2024.12.28 11:37:06 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.28 11:37:07 INFO  time: Imported build in 0.55s
+2024.12.28 11:37:07 INFO  running doctor check
+2024.12.28 11:37:07 INFO  java targets: hello-world-build, root, root-test
+2024.12.28 11:37:15 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 11:37:15 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.28 11:37:15 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 11:37:15 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 11:37:16 INFO  time: indexed workspace in 9.25s
+2024.12.28 11:37:31 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 11:37:31 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.28 11:37:31 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 11:37:31 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 11:38:03 INFO  time: indexed workspace in 55s
+2024.12.28 13:10:20 INFO  Shutting down server
+2024.12.28 13:10:20 INFO  shutting down Metals
+2024.12.28 13:10:20 INFO  Shut down connection with build server.
+2024.12.28 13:10:20 INFO  Shut down connection with build server.
+2024.12.28 13:10:20 INFO  Shut down connection with build server.
+2024.12.28 13:10:20 INFO  Exiting server
+2024.12.28 13:48:18 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.28 13:48:20 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.28 13:48:20 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.28 13:48:20 INFO  Successfully validated 6 migrations (execution time 00:00.091s)
+2024.12.28 13:48:20 INFO  Successfully validated 6 migrations (execution time 00:00.091s)
+2024.12.28 13:48:20 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 13:48:20 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 13:48:20 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 13:48:20 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 13:48:21 INFO  Attempting to connect to the build server...
+2024.12.28 13:48:20 INFO  Attempting to connect to the build server...
+2024.12.28 13:48:21 INFO  Found a Bloop server running
+2024.12.28 13:48:20 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.28 13:48:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 13:48:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 13:48:23 INFO  Attempting to connect to the build server...
+2024.12.28 13:48:23 INFO  Found a Bloop server running
+2024.12.28 13:48:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 13:48:25 INFO  time: Connected to build server in 4.12s
+2024.12.28 13:48:25 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.28 13:48:25 INFO  time: Connected to build server in 3.91s
+2024.12.28 13:48:25 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.28 13:48:25 INFO  time: Imported build in 0.29s
+2024.12.28 13:48:25 INFO  running doctor check
+2024.12.28 13:48:25 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.28 13:48:26 INFO  time: Imported build in 1.05s
+2024.12.28 13:48:26 INFO  running doctor check
+2024.12.28 13:48:26 INFO  java targets: hello-world-build, root, root-test
+2024.12.28 13:48:34 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 13:48:34 INFO  Successfully validated 1 migration (execution time 00:00.006s)
+2024.12.28 13:48:34 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 13:48:34 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 13:48:37 INFO  time: indexed workspace in 11s
+2024.12.28 13:48:40 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 13:48:40 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.28 13:48:40 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 13:48:40 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 13:48:48 INFO  time: indexed workspace in 21s
+2024.12.28 14:53:19 INFO  Shutting down server
+2024.12.28 14:53:19 INFO  shutting down Metals
+2024.12.28 14:53:19 INFO  Shut down connection with build server.
+2024.12.28 14:53:19 INFO  Shut down connection with build server.
+2024.12.28 14:53:19 INFO  Shut down connection with build server.
+2024.12.28 14:53:19 INFO  Exiting server
+2024.12.28 15:05:36 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.28 15:05:38 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.28 15:05:38 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.28 15:05:38 INFO  Successfully validated 6 migrations (execution time 00:00.070s)
+2024.12.28 15:05:38 INFO  Successfully validated 6 migrations (execution time 00:00.070s)
+2024.12.28 15:05:38 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 15:05:38 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 15:05:38 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 15:05:38 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 15:05:38 INFO  Attempting to connect to the build server...
+2024.12.28 15:05:38 INFO  Attempting to connect to the build server...
+2024.12.28 15:05:38 INFO  Found a Bloop server running
+2024.12.28 15:05:38 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.28 15:05:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 15:05:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 15:05:40 INFO  Attempting to connect to the build server...
+2024.12.28 15:05:40 INFO  Found a Bloop server running
+2024.12.28 15:05:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 15:05:41 INFO  time: Connected to build server in 2.41s
+2024.12.28 15:05:41 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.28 15:05:41 INFO  time: Connected to build server in 2.52s
+2024.12.28 15:05:41 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.28 15:05:41 INFO  time: Imported build in 0.16s
+2024.12.28 15:05:41 INFO  running doctor check
+2024.12.28 15:05:41 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.28 15:05:41 INFO  time: Imported build in 0.36s
+2024.12.28 15:05:41 INFO  running doctor check
+2024.12.28 15:05:41 INFO  java targets: hello-world-build, root, root-test
+2024.12.28 15:05:47 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 15:05:47 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.28 15:05:47 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 15:05:47 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 15:05:49 INFO  time: indexed workspace in 7.8s
+2024.12.28 15:06:02 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 15:06:02 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.28 15:06:02 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 15:06:02 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 15:06:23 INFO  time: indexed workspace in 41s
+2024.12.28 15:06:49 INFO  Shutting down server
+2024.12.28 15:06:49 INFO  shutting down Metals
+2024.12.28 15:06:49 INFO  Shut down connection with build server.
+2024.12.28 15:06:49 INFO  Shut down connection with build server.
+2024.12.28 15:06:49 INFO  Shut down connection with build server.
+2024.12.28 15:06:49 INFO  Exiting server
+2024.12.28 16:48:49 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.28 16:48:50 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.28 16:48:50 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.28 16:48:50 INFO  Successfully validated 6 migrations (execution time 00:00.070s)
+2024.12.28 16:48:50 INFO  Successfully validated 6 migrations (execution time 00:00.070s)
+2024.12.28 16:48:50 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 16:48:50 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 16:48:50 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 16:48:50 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 16:48:51 INFO  Attempting to connect to the build server...
+2024.12.28 16:48:50 INFO  Attempting to connect to the build server...
+2024.12.28 16:48:50 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.28 16:48:51 INFO  Found a Bloop server running
+2024.12.28 16:48:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 16:48:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 16:48:52 INFO  Attempting to connect to the build server...
+2024.12.28 16:48:52 INFO  Found a Bloop server running
+2024.12.28 16:48:53 INFO  time: Connected to build server in 2.13s
+2024.12.28 16:48:53 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.28 16:48:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 16:48:53 INFO  time: Connected to build server in 2.34s
+2024.12.28 16:48:53 INFO  time: Imported build in 0.11s
+2024.12.28 16:48:53 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.28 16:48:53 INFO  running doctor check
+2024.12.28 16:48:53 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.28 16:48:54 INFO  time: Imported build in 0.47s
+2024.12.28 16:48:54 INFO  running doctor check
+2024.12.28 16:48:54 INFO  java targets: hello-world-build, root, root-test
+2024.12.28 16:48:59 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 16:48:59 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.28 16:48:59 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 16:48:59 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 16:49:00 INFO  time: indexed workspace in 7.14s
+2024.12.28 16:49:02 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 16:49:02 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.28 16:49:02 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 16:49:02 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 16:49:08 INFO  time: indexed workspace in 14s
+2024.12.28 22:07:09 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.28 22:07:13 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.28 22:07:13 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.28 22:07:13 INFO  Successfully validated 6 migrations (execution time 00:00.058s)
+2024.12.28 22:07:13 INFO  Successfully validated 6 migrations (execution time 00:00.058s)
+2024.12.28 22:07:13 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 22:07:13 INFO  Current version of schema "PUBLIC": 6
+2024.12.28 22:07:13 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 22:07:13 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 22:07:14 INFO  Attempting to connect to the build server...
+2024.12.28 22:07:14 INFO  No running Bloop server found, starting one.
+2024.12.28 22:07:13 INFO  Attempting to connect to the build server...
+2024.12.28 22:07:13 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.28 22:07:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 22:07:18 INFO  BSP server: Starting compilation server
+2024.12.28 22:07:18 INFO  Starting compilation server
+2024.12.28 22:07:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 22:07:26 INFO  Attempting to connect to the build server...
+2024.12.28 22:07:26 INFO  Found a Bloop server running
+2024.12.28 22:07:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.28 22:07:27 INFO  time: Connected to build server in 13s
+2024.12.28 22:07:27 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.28 22:07:27 INFO  time: Connected to build server in 13s
+2024.12.28 22:07:27 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.28 22:07:27 INFO  time: Imported build in 0.2s
+2024.12.28 22:07:27 INFO  running doctor check
+2024.12.28 22:07:27 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.28 22:07:28 INFO  time: Imported build in 0.69s
+2024.12.28 22:07:28 INFO  running doctor check
+2024.12.28 22:07:28 INFO  java targets: hello-world-build, root, root-test
+2024.12.28 22:07:36 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 22:07:36 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.28 22:07:36 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 22:07:36 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 22:07:37 INFO  time: indexed workspace in 10s
+2024.12.28 22:07:45 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.28 22:07:45 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.28 22:07:45 INFO  Current version of schema "PUBLIC": 1
+2024.12.28 22:07:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.28 22:08:08 INFO  time: indexed workspace in 40s
+2024.12.29 00:17:08 INFO  Shutting down server
+2024.12.29 00:17:08 INFO  shutting down Metals
+2024.12.29 00:17:08 INFO  Shut down connection with build server.
+2024.12.29 00:17:08 INFO  Shut down connection with build server.
+2024.12.29 00:17:08 INFO  Shut down connection with build server.
+2024.12.29 00:17:08 INFO  Exiting server
+2024.12.29 00:31:07 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.29 00:31:10 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.29 00:31:10 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.29 00:31:10 INFO  Successfully validated 6 migrations (execution time 00:00.086s)
+2024.12.29 00:31:10 INFO  Successfully validated 6 migrations (execution time 00:00.086s)
+2024.12.29 00:31:10 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 00:31:10 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 00:31:10 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 00:31:10 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 00:31:10 INFO  Attempting to connect to the build server...
+2024.12.29 00:31:10 INFO  Attempting to connect to the build server...
+2024.12.29 00:31:10 INFO  Found a Bloop server running
+2024.12.29 00:31:10 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.29 00:31:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 00:31:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 00:31:12 INFO  Attempting to connect to the build server...
+2024.12.29 00:31:12 INFO  Found a Bloop server running
+2024.12.29 00:31:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 00:31:13 INFO  time: Connected to build server in 3.13s
+2024.12.29 00:31:13 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.29 00:31:14 INFO  time: Imported build in 0.74s
+2024.12.29 00:31:14 INFO  time: Connected to build server in 3.96s
+2024.12.29 00:31:14 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.29 00:31:14 INFO  time: Imported build in 0.13s
+2024.12.29 00:31:14 INFO  running doctor check
+2024.12.29 00:31:14 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.29 00:31:14 INFO  running doctor check
+2024.12.29 00:31:14 INFO  java targets: hello-world-build, root, root-test
+2024.12.29 00:31:22 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 00:31:22 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.29 00:31:22 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 00:31:22 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 00:31:23 INFO  time: indexed workspace in 8.87s
+2024.12.29 00:31:43 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 00:31:43 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.29 00:31:43 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 00:31:43 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 00:32:15 INFO  time: indexed workspace in 1m
+2024.12.29 14:22:08 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.29 14:22:14 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.29 14:22:14 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.29 14:22:14 INFO  Successfully validated 6 migrations (execution time 00:00.130s)
+2024.12.29 14:22:14 INFO  Successfully validated 6 migrations (execution time 00:00.105s)
+2024.12.29 14:22:14 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 14:22:14 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 14:22:14 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 14:22:14 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 14:22:15 INFO  Attempting to connect to the build server...
+2024.12.29 14:22:15 INFO  No running Bloop server found, starting one.
+2024.12.29 14:22:15 INFO  Attempting to connect to the build server...
+2024.12.29 14:22:15 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.29 14:22:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 14:22:21 INFO  BSP server: Starting compilation server
+2024.12.29 14:22:23 INFO  Starting compilation server
+2024.12.29 14:22:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 14:22:37 INFO  Attempting to connect to the build server...
+2024.12.29 14:22:37 INFO  Found a Bloop server running
+2024.12.29 14:22:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 14:22:39 INFO  time: Connected to build server in 24s
+2024.12.29 14:22:39 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.29 14:22:39 INFO  time: Connected to build server in 24s
+2024.12.29 14:22:39 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.29 14:22:39 INFO  time: Imported build in 0.39s
+2024.12.29 14:22:39 INFO  running doctor check
+2024.12.29 14:22:39 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.29 14:22:40 INFO  time: Imported build in 1.08s
+2024.12.29 14:22:40 INFO  running doctor check
+2024.12.29 14:22:40 INFO  java targets: hello-world-build, root, root-test
+2024.12.29 14:22:50 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 14:22:50 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 14:22:50 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.29 14:22:50 INFO  Successfully validated 1 migration (execution time 00:00.006s)
+2024.12.29 14:22:50 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 14:22:50 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 14:22:50 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 14:22:50 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 14:22:52 INFO  time: indexed workspace in 13s
+2024.12.29 14:23:00 INFO  time: indexed workspace in 19s
+2024.12.29 17:23:00 INFO  Shutting down server
+2024.12.29 17:23:00 INFO  shutting down Metals
+2024.12.29 17:23:00 INFO  Shut down connection with build server.
+2024.12.29 17:23:00 INFO  Shut down connection with build server.
+2024.12.29 17:23:00 INFO  Shut down connection with build server.
+2024.12.29 17:23:00 INFO  Exiting server
+2024.12.29 21:08:50 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.29 21:08:52 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.29 21:08:52 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.29 21:08:52 INFO  Successfully validated 6 migrations (execution time 00:00.068s)
+2024.12.29 21:08:52 INFO  Successfully validated 6 migrations (execution time 00:00.068s)
+2024.12.29 21:08:52 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 21:08:52 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 21:08:52 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 21:08:52 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 21:08:53 INFO  Attempting to connect to the build server...
+2024.12.29 21:08:53 INFO  Attempting to connect to the build server...
+2024.12.29 21:08:53 INFO  Found a Bloop server running
+2024.12.29 21:08:53 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.29 21:08:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 21:08:55 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 21:08:55 INFO  Attempting to connect to the build server...
+2024.12.29 21:08:55 INFO  Found a Bloop server running
+2024.12.29 21:08:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 21:08:56 INFO  time: Connected to build server in 3.15s
+2024.12.29 21:08:56 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.29 21:08:56 INFO  time: Imported build in 0.29s
+2024.12.29 21:08:56 INFO  time: Connected to build server in 3.46s
+2024.12.29 21:08:56 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.29 21:08:56 INFO  running doctor check
+2024.12.29 21:08:56 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.29 21:08:56 INFO  running doctor check
+2024.12.29 21:08:56 INFO  java targets: hello-world-build, root, root-test
+2024.12.29 21:09:04 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 21:09:04 INFO  Successfully validated 1 migration (execution time 00:00.008s)
+2024.12.29 21:09:04 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 21:09:04 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 21:09:05 INFO  time: indexed workspace in 8.91s
+2024.12.29 21:09:24 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 21:09:24 INFO  Successfully validated 1 migration (execution time 00:00.002s)
+2024.12.29 21:09:24 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 21:09:24 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 21:09:55 INFO  time: indexed workspace in 59s
+2024.12.29 22:00:47 INFO  Shutting down server
+2024.12.29 22:00:47 INFO  shutting down Metals
+2024.12.29 22:00:47 INFO  Shut down connection with build server.
+2024.12.29 22:00:47 INFO  Shut down connection with build server.
+2024.12.29 22:00:47 INFO  Shut down connection with build server.
+2024.12.29 22:00:47 INFO  Exiting server
+2024.12.29 22:56:53 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.29 22:56:56 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.29 22:56:56 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.29 22:56:56 INFO  Successfully validated 6 migrations (execution time 00:00.114s)
+2024.12.29 22:56:56 INFO  Successfully validated 6 migrations (execution time 00:00.114s)
+2024.12.29 22:56:56 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 22:56:56 INFO  Current version of schema "PUBLIC": 6
+2024.12.29 22:56:56 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 22:56:56 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 22:56:56 INFO  Attempting to connect to the build server...
+2024.12.29 22:56:57 INFO  Attempting to connect to the build server...
+2024.12.29 22:56:56 INFO  Found a Bloop server running
+2024.12.29 22:56:57 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.29 22:56:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 22:56:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 22:56:58 INFO  Attempting to connect to the build server...
+2024.12.29 22:56:58 INFO  Found a Bloop server running
+2024.12.29 22:56:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.29 22:56:59 INFO  time: Connected to build server in 2.88s
+2024.12.29 22:56:59 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.29 22:57:00 INFO  time: Connected to build server in 3.11s
+2024.12.29 22:57:00 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.29 22:57:00 INFO  time: Imported build in 0.3s
+2024.12.29 22:57:00 INFO  time: Imported build in 0.11s
+2024.12.29 22:56:59 INFO  running doctor check
+2024.12.29 22:56:59 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.29 22:57:00 INFO  running doctor check
+2024.12.29 22:57:00 INFO  java targets: hello-world-build, root, root-test
+2024.12.29 22:57:09 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 22:57:09 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2024.12.29 22:57:09 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 22:57:09 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 22:57:11 INFO  time: indexed workspace in 11s
+2024.12.29 22:57:33 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.29 22:57:33 INFO  Successfully validated 1 migration (execution time 00:00.007s)
+2024.12.29 22:57:33 INFO  Current version of schema "PUBLIC": 1
+2024.12.29 22:57:33 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.29 22:58:07 INFO  time: indexed workspace in 1m7s
+2024.12.30 01:18:09 INFO  Shutting down server
+2024.12.30 01:18:09 INFO  shutting down Metals
+2024.12.30 01:18:09 INFO  Shut down connection with build server.
+2024.12.30 01:18:09 INFO  Shut down connection with build server.
+2024.12.30 01:18:09 INFO  Shut down connection with build server.
+2024.12.30 01:18:09 INFO  Exiting server
