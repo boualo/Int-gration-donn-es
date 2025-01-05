@@ -499,3 +499,637 @@ INFO: Unsupported notification method: $/setTrace
 2024.12.30 01:18:09 INFO  Shut down connection with build server.
 2024.12.30 01:18:09 INFO  Shut down connection with build server.
 2024.12.30 01:18:09 INFO  Exiting server
+2024.12.30 16:10:58 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.30 16:11:00 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.30 16:11:00 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.30 16:11:00 INFO  Successfully validated 6 migrations (execution time 00:00.085s)
+2024.12.30 16:11:00 INFO  Successfully validated 6 migrations (execution time 00:00.085s)
+2024.12.30 16:11:00 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 16:11:00 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 16:11:00 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 16:11:00 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 16:11:00 INFO  Attempting to connect to the build server...
+2024.12.30 16:11:00 INFO  No running Bloop server found, starting one.
+2024.12.30 16:11:00 INFO  Attempting to connect to the build server...
+2024.12.30 16:11:00 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.30 16:11:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 16:11:05 INFO  BSP server: Starting compilation server
+2024.12.30 16:11:05 INFO  Starting compilation server
+2024.12.30 16:11:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 16:11:15 INFO  Attempting to connect to the build server...
+2024.12.30 16:11:15 INFO  Found a Bloop server running
+2024.12.30 16:11:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 16:11:16 INFO  time: Connected to build server in 15s
+2024.12.30 16:11:16 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.30 16:11:16 INFO  time: Connected to build server in 15s
+2024.12.30 16:11:16 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.30 16:11:16 INFO  time: Imported build in 0.21s
+2024.12.30 16:11:16 INFO  running doctor check
+2024.12.30 16:11:16 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.30 16:11:17 INFO  time: Imported build in 0.65s
+2024.12.30 16:11:17 INFO  running doctor check
+2024.12.30 16:11:17 INFO  java targets: hello-world-build, root, root-test
+2024.12.30 16:11:22 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 16:11:22 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2024.12.30 16:11:22 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 16:11:22 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 16:11:24 INFO  time: indexed workspace in 7.29s
+2024.12.30 16:11:42 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 16:11:42 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.30 16:11:42 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 16:11:42 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 16:12:14 INFO  time: indexed workspace in 57s
+2024.12.30 19:26:26 INFO  Shutting down server
+2024.12.30 19:26:26 INFO  shutting down Metals
+2024.12.30 19:26:26 INFO  Shut down connection with build server.
+2024.12.30 19:26:26 INFO  Shut down connection with build server.
+2024.12.30 19:26:26 INFO  Shut down connection with build server.
+2024.12.30 19:26:26 INFO  Exiting server
+2024.12.30 19:27:20 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.30 19:27:23 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.30 19:27:23 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.30 19:27:23 INFO  Successfully validated 6 migrations (execution time 00:00.059s)
+2024.12.30 19:27:23 INFO  Successfully validated 6 migrations (execution time 00:00.058s)
+2024.12.30 19:27:23 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 19:27:23 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 19:27:23 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 19:27:23 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 19:27:23 INFO  Attempting to connect to the build server...
+2024.12.30 19:27:23 INFO  Attempting to connect to the build server...
+2024.12.30 19:27:23 INFO  Found a Bloop server running
+2024.12.30 19:27:23 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.30 19:27:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 19:27:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 19:27:25 INFO  Attempting to connect to the build server...
+2024.12.30 19:27:25 INFO  Found a Bloop server running
+2024.12.30 19:27:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 19:27:26 INFO  time: Connected to build server in 3.44s
+2024.12.30 19:27:26 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.30 19:27:27 INFO  time: Connected to build server in 3.54s
+2024.12.30 19:27:27 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.30 19:27:27 INFO  time: Imported build in 0.24s
+2024.12.30 19:27:27 INFO  running doctor check
+2024.12.30 19:27:27 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.30 19:27:26 INFO  time: Imported build in 0.7s
+2024.12.30 19:27:28 INFO  running doctor check
+2024.12.30 19:27:28 INFO  java targets: hello-world-build, root, root-test
+2024.12.30 19:27:34 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 19:27:34 INFO  Successfully validated 1 migration (execution time 00:00.016s)
+2024.12.30 19:27:34 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 19:27:34 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 19:27:37 INFO  time: indexed workspace in 10s
+2024.12.30 19:27:39 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 19:27:39 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.30 19:27:39 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 19:27:39 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 19:27:47 INFO  time: indexed workspace in 19s
+2024.12.30 23:20:35 INFO  Shutting down server
+2024.12.30 23:20:35 INFO  shutting down Metals
+2024.12.30 23:20:35 INFO  Shut down connection with build server.
+2024.12.30 23:20:35 INFO  Shut down connection with build server.
+2024.12.30 23:20:35 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.12.30 23:20:35 ERROR Bloop 'bsp' command exited with code 1. Something may be wrong with the current configuration.
+Running the [1mclean[0m sub-command to clear the working directory and remove caches might help.
+If the error persists, please report the issue as a bug and attach a log with increased verbosity by passing [1m-v -v -v[0m.
+2024.12.30 23:20:35 INFO  Shut down connection with build server.
+2024.12.30 23:20:35 INFO  Exiting server
+2024.12.30 23:29:25 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.30 23:29:27 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.30 23:29:27 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.30 23:29:27 INFO  Successfully validated 6 migrations (execution time 00:00.088s)
+2024.12.30 23:29:27 INFO  Successfully validated 6 migrations (execution time 00:00.088s)
+2024.12.30 23:29:27 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 23:29:27 INFO  Current version of schema "PUBLIC": 6
+2024.12.30 23:29:27 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 23:29:27 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 23:29:28 INFO  Attempting to connect to the build server...
+2024.12.30 23:29:27 INFO  Attempting to connect to the build server...
+2024.12.30 23:29:27 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.30 23:29:28 INFO  Found a Bloop server running
+2024.12.30 23:29:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 23:29:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 23:29:30 INFO  Attempting to connect to the build server...
+2024.12.30 23:29:30 INFO  Found a Bloop server running
+2024.12.30 23:29:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.30 23:29:31 INFO  time: Connected to build server in 2.96s
+2024.12.30 23:29:31 INFO  Connected to Build server: Bloop v2.0.6
+2024.12.30 23:29:31 INFO  time: Connected to build server in 3.28s
+2024.12.30 23:29:31 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.30 23:29:32 INFO  time: Imported build in 0.12s
+2024.12.30 23:29:32 INFO  running doctor check
+2024.12.30 23:29:32 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.30 23:29:31 INFO  time: Imported build in 0.42s
+2024.12.30 23:29:31 INFO  running doctor check
+2024.12.30 23:29:31 INFO  java targets: hello-world-build, root, root-test
+2024.12.30 23:29:38 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 23:29:38 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.30 23:29:38 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 23:29:38 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 23:29:39 INFO  time: indexed workspace in 7.72s
+2024.12.30 23:30:00 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.30 23:30:00 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.30 23:30:00 INFO  Current version of schema "PUBLIC": 1
+2024.12.30 23:30:00 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.30 23:30:31 INFO  time: indexed workspace in 59s
+2024.12.31 03:27:49 INFO  Shutting down server
+2024.12.31 03:27:49 INFO  shutting down Metals
+2024.12.31 03:27:49 INFO  Shut down connection with build server.
+2024.12.31 03:27:49 INFO  Shut down connection with build server.
+2024.12.31 03:27:49 INFO  Shut down connection with build server.
+2024.12.31 03:27:49 INFO  Exiting server
+2024.12.31 09:08:56 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.31 09:08:58 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.31 09:08:58 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.31 09:08:58 INFO  Successfully validated 6 migrations (execution time 00:00.062s)
+2024.12.31 09:08:58 INFO  Successfully validated 6 migrations (execution time 00:00.062s)
+2024.12.31 09:08:58 INFO  Current version of schema "PUBLIC": 6
+2024.12.31 09:08:58 INFO  Current version of schema "PUBLIC": 6
+2024.12.31 09:08:58 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 09:08:58 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 09:08:58 INFO  Attempting to connect to the build server...
+2024.12.31 09:08:58 INFO  No running Bloop server found, starting one.
+2024.12.31 09:08:58 INFO  Attempting to connect to the build server...
+2024.12.31 09:08:58 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.31 09:09:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 09:09:04 INFO  BSP server: Starting compilation server
+2024.12.31 09:09:04 INFO  Starting compilation server
+2024.12.31 09:09:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 09:09:16 INFO  Attempting to connect to the build server...
+2024.12.31 09:09:16 INFO  Found a Bloop server running
+2024.12.31 09:09:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 09:09:17 INFO  time: Connected to build server in 18s
+2024.12.31 09:09:17 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.31 09:09:17 INFO  time: Connected to build server in 18s
+2024.12.31 09:09:17 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.31 09:09:17 INFO  time: Imported build in 0.28s
+2024.12.31 09:09:17 INFO  running doctor check
+2024.12.31 09:09:17 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.31 09:09:17 INFO  time: Imported build in 0.58s
+2024.12.31 09:09:18 INFO  running doctor check
+2024.12.31 09:09:18 INFO  java targets: hello-world-build, root, root-test
+2024.12.31 09:09:25 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.31 09:09:25 INFO  Successfully validated 1 migration (execution time 00:00.006s)
+2024.12.31 09:09:25 INFO  Current version of schema "PUBLIC": 1
+2024.12.31 09:09:25 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 09:09:27 INFO  time: indexed workspace in 9.72s
+2024.12.31 09:09:45 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.31 09:09:45 INFO  Successfully validated 1 migration (execution time 00:00.005s)
+2024.12.31 09:09:45 INFO  Current version of schema "PUBLIC": 1
+2024.12.31 09:09:45 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 09:10:20 INFO  time: indexed workspace in 1m1s
+2024.12.31 09:45:11 INFO  Shutting down server
+2024.12.31 09:45:11 INFO  shutting down Metals
+2024.12.31 09:45:11 INFO  Shut down connection with build server.
+2024.12.31 09:45:11 INFO  Shut down connection with build server.
+2024.12.31 09:45:12 INFO  Shut down connection with build server.
+2024.12.31 09:45:11 INFO  Exiting server
+2024.12.31 13:30:05 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2024.12.31 13:30:07 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2024.12.31 13:30:07 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2024.12.31 13:30:07 INFO  Successfully validated 6 migrations (execution time 00:00.079s)
+2024.12.31 13:30:07 INFO  Successfully validated 6 migrations (execution time 00:00.078s)
+2024.12.31 13:30:07 INFO  Current version of schema "PUBLIC": 6
+2024.12.31 13:30:07 INFO  Current version of schema "PUBLIC": 6
+2024.12.31 13:30:07 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 13:30:07 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 13:30:07 INFO  Attempting to connect to the build server...
+2024.12.31 13:30:08 INFO  Attempting to connect to the build server...
+2024.12.31 13:30:07 INFO  Found a Bloop server running
+2024.12.31 13:30:08 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2024.12.31 13:30:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 13:30:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 13:30:10 INFO  Attempting to connect to the build server...
+2024.12.31 13:30:10 INFO  Found a Bloop server running
+2024.12.31 13:30:11 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.31 13:30:11 INFO  time: Connected to build server in 3.23s
+2024.12.31 13:30:11 INFO  Connected to Build server: Bloop v2.0.5
+2024.12.31 13:30:11 INFO  time: Connected to build server in 3.24s
+2024.12.31 13:30:11 INFO  Connected to Build server: scala-cli v1.5.4
+2024.12.31 13:30:11 INFO  time: Imported build in 0.19s
+2024.12.31 13:30:11 INFO  running doctor check
+2024.12.31 13:30:11 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2024.12.31 13:30:12 INFO  time: Imported build in 0.6s
+2024.12.31 13:30:12 INFO  running doctor check
+2024.12.31 13:30:12 INFO  java targets: hello-world-build, root, root-test
+2024.12.31 13:30:19 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.31 13:30:19 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.31 13:30:19 INFO  Current version of schema "PUBLIC": 1
+2024.12.31 13:30:19 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 13:30:22 INFO  time: indexed workspace in 11s
+2024.12.31 13:30:23 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2024.12.31 13:30:23 INFO  Successfully validated 1 migration (execution time 00:00.004s)
+2024.12.31 13:30:23 INFO  Current version of schema "PUBLIC": 1
+2024.12.31 13:30:23 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2024.12.31 13:30:32 INFO  time: indexed workspace in 19s
+2025.01.02 16:20:42 INFO  Started: Metals version 1.4.2 in folders 'C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world, C:\Users\Bouali\Documents\M2\Int-gration-donn-es' for client Visual Studio Code 1.96.2.
+2025.01.02 16:20:44 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\metals (H2 2.3)
+2025.01.02 16:20:44 INFO  Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2025.01.02 16:20:44 INFO  Successfully validated 6 migrations (execution time 00:00.029s)
+2025.01.02 16:20:44 INFO  Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2025.01.02 16:20:44 INFO  Current version of schema "PUBLIC": << Empty Schema >>
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "1 - Create tables"
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "2 - Server discovery"
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "3 - Jar symbols"
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "4 - Fingerprints"
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "5 - Jar type hierarchy"
+2025.01.02 16:20:44 INFO  Migrating schema "PUBLIC" to version "6 - Delete indices"
+2025.01.02 16:20:44 INFO  Successfully applied 6 migrations to schema "PUBLIC", now at version v6 (execution time 00:00.055s)
+2025.01.02 16:20:44 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:20:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.01.02 16:20:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:20:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2025.01.02 16:20:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:20:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-20-51-201.md
+Jan 02, 2025 4:20:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: next on empty iterator
+java.util.NoSuchElementException: next on empty iterator
+	at scala.collection.Iterator$$anon$19.next(Iterator.scala:973)
+	at scala.collection.Iterator$$anon$19.next(Iterator.scala:971)
+	at scala.collection.mutable.MutationTracker$CheckedIterator.next(MutationTracker.scala:76)
+	at scala.collection.IterableOps.head(Iterable.scala:222)
+	at scala.collection.IterableOps.head$(Iterable.scala:222)
+	at scala.collection.AbstractIterable.head(Iterable.scala:935)
+	at dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:164)
+	at dotty.tools.pc.MetalsDriver.run(MetalsDriver.scala:45)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:40)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:376)
+
+2025.01.02 16:20:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:52 INFO  Database: jdbc:h2:file:C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\metals (H2 2.3)
+2025.01.02 16:20:52 INFO  Successfully validated 6 migrations (execution time 00:00.006s)
+2025.01.02 16:20:52 INFO  Current version of schema "PUBLIC": 6
+2025.01.02 16:20:52 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.01.02 16:20:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:52 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\metals (H2 2.3)
+2025.01.02 16:20:52 INFO  Successfully validated 6 migrations (execution time 00:00.005s)
+2025.01.02 16:20:52 INFO  Current version of schema "PUBLIC": 6
+2025.01.02 16:20:52 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.01.02 16:20:52 INFO  Attempting to connect to the build server...
+2025.01.02 16:20:52 INFO  Attempting to connect to the build server...
+2025.01.02 16:20:52 INFO  Running BSP server List(C:\Users\Bouali\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.scala-build\ide-envs.json, C:\Users\Bouali\Documents\M2\Int-gration-donn-es)
+2025.01.02 16:20:52 INFO  No running Bloop server found, starting one.
+2025.01.02 16:20:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\Documents\M2\Int-gration-donn-es\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.02 16:20:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:56 INFO  BSP server: Starting compilation server
+2025.01.02 16:20:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:56 INFO  Starting compilation server
+2025.01.02 16:20:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:20:58 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:21:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.02 16:21:04 INFO  Attempting to connect to the build server...
+2025.01.02 16:21:04 INFO  Found a Bloop server running
+2025.01.02 16:21:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Bouali\AppData\Local\Temp\.sbt\hello-world\project\.metals\bsp.trace.json or C:\Users\Bouali\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.01.02 16:21:04 INFO  time: Connected to build server in 12s
+2025.01.02 16:21:04 INFO  Connected to Build server: scala-cli v1.5.4
+2025.01.02 16:21:04 INFO  time: Imported build in 0.17s
+2025.01.02 16:21:05 INFO  time: Connected to build server in 12s
+2025.01.02 16:21:05 INFO  Connected to Build server: Bloop v2.0.5
+2025.01.02 16:21:04 INFO  running doctor check
+2025.01.02 16:21:04 INFO  java targets: Int-gration-donn-es_d5c0a6989e-test, Int-gration-donn-es_d5c0a6989e
+2025.01.02 16:21:04 INFO  time: Imported build in 0.48s
+2025.01.02 16:21:04 INFO  running doctor check
+2025.01.02 16:21:04 INFO  java targets: hello-world-build, root, root-test
+2025.01.02 16:21:12 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.01.02 16:21:12 INFO  Successfully validated 1 migration (execution time 00:00.002s)
+2025.01.02 16:21:12 INFO  Current version of schema "PUBLIC": 1
+2025.01.02 16:21:12 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.01.02 16:21:13 INFO  time: indexed workspace in 8.52s
+2025.01.02 16:21:13 WARN  no build target for: C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java
+2025.01.02 16:21:20 INFO  Database: jdbc:h2:file:C:\Users\Bouali\AppData\Roaming\metals\data\metals (H2 2.3)
+2025.01.02 16:21:20 INFO  Successfully validated 1 migration (execution time 00:00.003s)
+2025.01.02 16:21:20 INFO  Current version of schema "PUBLIC": 1
+2025.01.02 16:21:20 INFO  Schema "PUBLIC" is up to date. No migration necessary.
+2025.01.02 16:21:41 INFO  time: indexed workspace in 35s
+2025.01.02 16:21:41 WARN  no build target for: C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java
+2025.01.02 16:42:53 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:42:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:42:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:42:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-42-55-530.md
+2025.01.02 16:42:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:42:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-42-56-974.md
+2025.01.02 16:42:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:42:56 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:42:57 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:42:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-42-58-034.md
+2025.01.02 16:42:57 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:42:59 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:42:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-42-59-495.md
+2025.01.02 16:42:59 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:43:00 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:43:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-43-00-652.md
+2025.01.02 16:43:00 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:43:00 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:43:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-43-01-479.md
+2025.01.02 16:43:01 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:44:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-44-03-996.md
+2025.01.02 16:44:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:04 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:04 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:05 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:44:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-44-06-055.md
+2025.01.02 16:44:05 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:08 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:44:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-44-08-536.md
+2025.01.02 16:44:08 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:10 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:44:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-44-10-866.md
+2025.01.02 16:44:11 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:11 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:14 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:44:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-44-14-921.md
+2025.01.02 16:44:16 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:16 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:44:18 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:47:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:47:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-47-39-574.md
+2025.01.02 16:47:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:47:40 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-26-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.01.02 16:47:40 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:47:42 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:02 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-03-131.md
+2025.01.02 16:48:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-04-239.md
+2025.01.02 16:48:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-05-031.md
+2025.01.02 16:48:05 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:05 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-06-155.md
+2025.01.02 16:48:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:19 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:19 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:25 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:25 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-25-748.md
+2025.01.02 16:48:25 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:27 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:27 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-27-141.md
+2025.01.02 16:48:27 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:31 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-31-896.md
+2025.01.02 16:48:31 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:37 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-37-952.md
+2025.01.02 16:48:37 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:37 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-39-373.md
+2025.01.02 16:48:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:41 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:45 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-45-314.md
+2025.01.02 16:48:45 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-45-865.md
+2025.01.02 16:48:46 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:46 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:46 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-48-445.md
+2025.01.02 16:48:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:48:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-48-50-836.md
+2025.01.02 16:48:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:52 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:52 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:48:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:49:00 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:49:47 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:49:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-49-47-689.md
+2025.01.02 16:49:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:49:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-49-48-917.md
+2025.01.02 16:49:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:49:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-49-50-185.md
+2025.01.02 16:49:50 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:19 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-19-273.md
+2025.01.02 16:50:22 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:23 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-23-801.md
+2025.01.02 16:50:23 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:25 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-26-039.md
+2025.01.02 16:50:25 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:25 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-26-949.md
+2025.01.02 16:50:27 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:30 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-31-070.md
+2025.01.02 16:50:30 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-31-381.md
+2025.01.02 16:50:38 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-38-272.md
+2025.01.02 16:50:38 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-39-631.md
+2025.01.02 16:50:39 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:40 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-40-706.md
+2025.01.02 16:50:41 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-41-896.md
+2025.01.02 16:50:41 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:41 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:43 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-43-335.md
+2025.01.02 16:50:44 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-44-539.md
+2025.01.02 16:50:44 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-48-181.md
+2025.01.02 16:50:48 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:49 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:50:53 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Exception in thread "pool-57-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2025.01.02 16:50:54 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-54-658.md
+2025.01.02 16:50:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-55-834.md
+2025.01.02 16:50:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:50:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-50-56-174.md
+2025.01.02 16:51:00 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-00-106.md
+2025.01.02 16:51:01 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-01-379.md
+2025.01.02 16:51:01 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-01-794.md
+2025.01.02 16:51:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-03-980.md
+2025.01.02 16:51:03 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-04-767.md
+2025.01.02 16:51:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-06-316.md
+2025.01.02 16:51:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-07-308.md
+2025.01.02 16:51:07 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:07 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-08-647.md
+2025.01.02 16:51:09 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:09 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-10-106.md
+2025.01.02 16:51:09 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:09 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:11 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-11-517.md
+2025.01.02 16:51:11 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:12 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:12 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:12 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:13 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:16 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-16-222.md
+2025.01.02 16:51:16 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-16-576.md
+2025.01.02 16:51:16 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:17 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-17-926.md
+2025.01.02 16:51:17 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:18 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-18-215.md
+2025.01.02 16:51:18 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:18 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:21 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-21-411.md
+2025.01.02 16:51:21 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:51:22 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:51:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-51-23-100.md
+2025.01.02 16:51:24 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:09 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-09-260.md
+2025.01.02 16:52:11 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-11-343.md
+2025.01.02 16:52:13 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:13 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:49 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-49-378.md
+2025.01.02 16:52:49 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:51 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:53 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-53-468.md
+2025.01.02 16:52:53 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:54 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-54-488.md
+2025.01.02 16:52:54 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:52:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:52:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-52-55-906.md
+2025.01.02 16:53:04 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:53:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-53-04-498.md
+2025.01.02 16:53:04 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:53:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-53-05-160.md
+2025.01.02 16:53:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 4:53:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_16-53-06-565.md
+2025.01.02 16:53:06 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 16:53:07 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:01:38 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:01:38 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 5:01:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\Bouali\AppData\Local\Temp\fallback-service7557918695424675132\.metals\.reports\metals-full\2025-01-02\r_compiler-error_17-01-39-727.md
+2025.01.02 17:01:40 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:01:40 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:01:46 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:01:46 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.02 17:05:55 INFO  no build target found for C:\Users\Bouali\AppData\Local\Microsoft\Windows\INetCache\IE\VS0JLIC4\TP1[1].java. Using presentation compiler with project's scala-library version: 3.3.4
+Jan 02, 2025 5:06:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.01.02 17:06:39 INFO  Shutting down server
+2025.01.02 17:06:39 INFO  shutting down Metals
+2025.01.02 17:06:39 INFO  Shut down connection with build server.
+2025.01.02 17:06:39 INFO  Shut down connection with build server.
+2025.01.02 17:06:39 INFO  Shut down connection with build server.
+2025.01.02 17:06:39 INFO  Exiting server
